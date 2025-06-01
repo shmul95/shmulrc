@@ -1,0 +1,9 @@
+[submodule "zshmul"]
+	path = zshmul
+	url = https://github.com/shmul95/zshmul.git
+[submodule "tshmux"]
+	path = tshmux
+	url = https://github.com/shmul95/tshmux.git
+[submodule "shmulvim"]
+	path = shmulvim
+	url = https://github.com/shmul95/shmulvim.git
